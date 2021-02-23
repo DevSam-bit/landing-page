@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+.content {
+    text-align: center;
+    padding-top: 25%;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather', serif;
+    color: white;
+    background-image: url("catscover.jpg")
+}
+
+hr {
+    border-top: 1px solid white;
+    width: 600px;
+}
+
+h1 {
+      font-weight: 700;
+      font-size: 4em;
+}
+
+#container {
+    padding-bottom: 150px;
+}
